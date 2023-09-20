@@ -1,0 +1,25 @@
+.speech{
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direction{
+    color: black;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.direction .hover{
+    background-color: aquamarine;
+    color: blue;
+}
+
+.krogstad{
+    color: blueviolet;
+}
+
+.mrslinde{
+    color: brown;
+}
+
