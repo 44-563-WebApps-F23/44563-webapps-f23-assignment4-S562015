@@ -8,10 +8,11 @@
     color: black;
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
 }
 
 .direction:hover{
-    background-color: aquamarine;
+    background-color: aqua;
     color: blue;
 }
 
@@ -23,3 +24,89 @@
     color: brown;
 }
 
+
+
+.table {
+    margin: 10px;
+    width: 100%;
+    padding: 12px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 2px solid #aa1818; 
+}
+
+
+.table th, td {
+    border: 1px solid #ce24b5; 
+    padding: 8px;
+    text-align: center;
+    
+}
+
+.table th {
+    background-color: #549b5e;
+    color: white;
+}
+
+h4:hover{
+    color: #aa1818;
+    border: dotted 2px #ce24b5;
+    text-shadow: 1px 1px 2px #1c3897, 0 0 1em #6ed65a, 0 0 0.2em #861958;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bottom-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:grey;
+    color: white;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+}
+
+.bottom-navbar a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+
+.bottom-navbar a:hover {
+    text-decoration: underline;
+}
